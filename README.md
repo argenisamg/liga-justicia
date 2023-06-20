@@ -3,8 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde GitHub
-Este es un mensaje creado directamente desde el repositorio remoto de GitHub.
+## Nuevos cambios de local a remoto
+Estos cambios son para aprender a subirlos desde entorno local a remoto.
